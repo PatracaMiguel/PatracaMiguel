@@ -51,6 +51,5 @@ I love to learn and build something new, productive, innovative and creative.
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/PatracaMiguel/PatracaMiguel/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="example" />
 </p>
