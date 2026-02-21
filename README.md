@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a software engineering student
-I love to learn and build something new, productive, innovative and creative.
+
 
 
 <h3 align="center">Languages</h3>
